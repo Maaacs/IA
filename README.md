@@ -15,4 +15,8 @@ Escolha o notebook python de preferência:
 
 Faça o upload do arquivo_IA.ipynb para o seu notebook. Logo após, execute o notebook seção por seção. A saída aparecerá em sua tela.
 
-**Bibliotecas** Keras, TensorFlow, Graphviz, Sklearn, NumPy, MatplotLib.
+**Bibliotecas utilizadas** Keras, TensorFlow, Graphviz, Sklearn, NumPy, MatplotLib.
+
+**Se necessário instalar:** 
+sudo pip install -U ipykernel && pip install keras && python3 -m pip install tensorflow && pip install tqdm && pip install -U scikit-learn && pip install && pydotplus && pip install matplotlib && !pip install --upgrade numpy !pip install --upgrade pandas
+
